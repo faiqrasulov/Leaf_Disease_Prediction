@@ -1,0 +1,16 @@
+Disclaimer: While case study is real, data is modified for educational purposes.
+
+Dataset: You can download dataset here. 
+
+The different versions of the dataset are present
+
+in the raw directory. Use images in the color folder.
+
+Description: The PlantVillage dataset consists of healthy and unhealthy leaf images divided into 38 categories by species and disease.
+
+You are asked to train a model with following steps: 
+1. Classify image data
+2. Find optimal learning rate
+3. Evaluate loss and accuracy
+4. See most confused classes (confusion matrix and top confused pictures) 
+5. Save model
